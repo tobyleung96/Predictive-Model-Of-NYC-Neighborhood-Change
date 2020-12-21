@@ -1,7 +1,7 @@
 **Predictive Model of Neighborhood Change**
 ===========================================
 
-Group Project
+Group Project: 
 Toby Leung (htl9), Alex Amy (aaa453), Brandt Beckerman (bnb44), Rebecca Lassman (rsl252)
 
 ---
